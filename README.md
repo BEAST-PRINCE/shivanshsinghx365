@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-### I am Shivansh Singh, a student in India and wish to persue OpenSource from Heart in near future...💕💕💕
+### I am Shivansh Singh, a student from India and wish to persue OpenSource from Heart in near future...💕💕💕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
