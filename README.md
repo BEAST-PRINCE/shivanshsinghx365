@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-### I am Shivansh Singh, a student from India and wish to persue OpenSource from Heart in near future...💕💕💕
+### I am Shivansh Singh, a student from India, and a Tech and Physics enthusiast and wish to persue OpenSource & Other New and Innovative Technologies from Heart in near future...💕💕💕
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true)
 
