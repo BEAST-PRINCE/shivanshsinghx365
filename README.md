@@ -1,6 +1,9 @@
-### Hi there 👋,
+### Hi there 👋
 
-### I am Shivansh Singh, a student from India, and a Tech and Physics enthusiast and wish to persue OpenSource & Other New and Innovative Technologies from Heart in near future...💕💕💕
+### I am Shivansh Singh a Linux, Opensource, Tech and Physics enthusiast
+ I am highly interested in New & Innovative technologies like AI, ML, Datasciences and Software development.
+ Fast learning, Innovation, and R&D are my key strenghts.
+ Currently a Student in Bengaluru, India ^_^
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true)
 
