@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### I am Shivansh Singh a Linux, Opensource, Tech and Physics enthusiast
+### I am Shivansh Singh; An Opensource, Tech ,Physics and STEM Enthusiast
+
  I am highly interested in New & Innovative technologies like AI, ML, Datasciences and Software development.
  Fast learning, Innovation, and R&D are my key strenghts.
  Currently a Student in Bengaluru, India ^_^
