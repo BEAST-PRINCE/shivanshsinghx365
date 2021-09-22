@@ -4,7 +4,7 @@
 
  I am highly interested in New & Innovative technologies like AI, ML, Datasciences and Software development.
  Fast learning, Innovation, and R&D are my key strenghts.
- Currently a Student in Bengaluru, India ^_^
+ Currently a Student in Chandigarh, India ^_^
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true)
 
