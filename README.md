@@ -3,7 +3,7 @@
 ### I am Shivansh Singh; An Opensource, Tech ,Physics and STEM Enthusiast
 
  I am highly interested in New & Innovative technologies like AI, ML, Datasciences and Software development.
- Fast learning, Innovation, and R&D are my key strenghts.
+ Fast learning, Innovation, and R&D are my key strengths.
  Currently a Student in Chandigarh, India ^_^
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true)
