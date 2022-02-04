@@ -7,8 +7,7 @@
  Currently a Student in Chandigarh, India ^_^
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true&count_private=true&bg_color=DEG,#009ffd,#2a2a72)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=10&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivanshsinghx365)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=10&layout=compact)
 
 
 <!--
