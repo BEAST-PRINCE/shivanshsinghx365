@@ -6,8 +6,9 @@
  Fast learning, Innovation, and R&D are my key strengths.
  Currently a Student in Chandigarh, India ^_^
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&showicons=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true&count_private=true&bg_color=DEG,#009ffd,#2a2a72)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=10&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivanshsinghx365)]
 
 
 <!--
