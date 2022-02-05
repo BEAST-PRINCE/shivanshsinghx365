@@ -2,8 +2,9 @@
 
 ### I am Shivansh Singh; An Opensource, Tech ,Physics and STEM Enthusiast
 
-and I love Programming
-Currently a Student in Chandigarh, India ^_^
+## & I love Programming
+
+Currently a Computer Science Student at Chandigarh, India ^_^
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=10&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true&count_private=true&theme=tokyonight)
