@@ -5,6 +5,8 @@
 ## & I love Programming
 
 Currently a Computer Science Student at Chandigarh, India ^_^
+- 🌱 I’m currently learning ... DSA
+- 😄 Pronouns: ... He/him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=12&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true&count_private=true&theme=tokyonight)
@@ -17,14 +19,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning ... DSA
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 😄 Pronouns: ... He/him
 <!--
 - ⚡ Fun fact: ...
 -->
