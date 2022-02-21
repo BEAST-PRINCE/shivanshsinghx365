@@ -5,6 +5,8 @@
 ## & I love Programming
 
 Currently a Computer Science Student at Chandigarh, India ^_^
+![image](https://user-images.githubusercontent.com/77519009/154890258-aa689e96-370e-442e-8846-752131b48e49.png)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsinghx365&langs_count=12&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshsinghx365&show_icons=true&count_private=true&theme=tokyonight)
@@ -13,16 +15,18 @@ Currently a Computer Science Student at Chandigarh, India ^_^
 <!--
 **shivanshsinghx365/shivanshsinghx365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🌱 I’m currently learning ... DSA
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-->
+- 😄 Pronouns: ... He/him
+<!--
 - ⚡ Fun fact: ...
 -->
