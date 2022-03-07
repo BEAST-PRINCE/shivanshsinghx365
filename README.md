@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Shivansh Singh; An Opensource, Tech ,Physics and STEM Enthusiast
+### I am Shivansh Singh; An Opensource, Tech, AI & Linux Enthusiast
 
 ## & I love Programming
 
