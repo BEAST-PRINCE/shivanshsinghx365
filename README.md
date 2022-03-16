@@ -5,7 +5,7 @@
 ## & I love Programming
 
 Currently a Computer Science Student at Chandigarh, India ^_^
-- 🌱 I’m currently learning ... DSA
+- 🌱 I’m currently learning ... OpenCV
 - 😄 Pronouns: ... He/him
 
 
