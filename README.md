@@ -4,8 +4,8 @@
 
 ## & I love Programming
 
-Currently a Computer Science Student at Chandigarh, India ^_^
-- 🌱 I’m currently learning ... OpenCV
+Currently a Computer Science Student in India ^_^
+- 🌱 I’m currently learning ... C++
 - 😄 Pronouns: ... He/him
 
 
