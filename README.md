@@ -2,7 +2,7 @@
 ### An Opensource, Tech, AI & Linux Enthusiast
 ## & I love Programming <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsinghx365&label=Views&color=blue&style=plastic" alt="shivanshsinghx365" /> </p>
 
-## 💫 About Me :
+# 💫 About Me :
 Currently a Computer Science Student in India ^_^
 - 🔭 I’m currently working on ... DSA
 - 🌱 I’m currently learning ... C++
