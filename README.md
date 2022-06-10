@@ -8,7 +8,7 @@ Currently a Computer Science Student in India ^_^
 - 🌱 I’m currently learning ... C++
 - 😄 Pronouns: ... He/him
 - 💬 Ask me about ... Linux,Git,Python & Other technology related stuff
-- ![alt text](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
+![alt text](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
 
 
 ## 🌐 Socials
