@@ -1,6 +1,6 @@
 ### Hi there I am [Shivansh Singh!](https://shivansh.ga)  👋
 ### An Opensource, Tech, AI & Linux Enthusiast
-## & I love Programming <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsinghx365&label=Views&color=blue&style=plastic" alt="shivanshsinghx365" /> </p>
+## & I love Programming <br /><br /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsinghx365&label=Views&color=blue&style=plastic" alt="shivanshsinghx365" /> </p>
 
 # 💫 About Me :
 Currently a Computer Science Student in India ^_^
