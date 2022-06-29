@@ -4,10 +4,10 @@
 
 # 💫 About Me :
 Currently a Computer Science Student in India ^_^
-- 🔭 I’m currently working on ... DSA
-- 🌱 I’m currently learning ... C++
+- 🔭 I’m currently working on ... Programming Basics
+- 🌱 I’m currently learning ... Java
 - 😄 Pronouns: ... He/him
-- 💬 Ask me about ... Linux,Git,Python & Other technology related stuff
+- 💬 Ask me about ... Linux,Git,Python,Computer/Laptops & Other technology related stuff
 
 
 <p align="center">
