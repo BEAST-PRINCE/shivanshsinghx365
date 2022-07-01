@@ -4,7 +4,7 @@
 
 # 💫 About Me :
 Currently a Computer Science Student in India ^_^
-- 🔭 I’m currently working on ... Programming Basics
+- 🔭 I’m currently working on ... Basics of Programming
 - 🌱 I’m currently learning ... Java
 - 😄 Pronouns: ... He/him
 - 💬 Ask me about ... Linux,Git,Python,Computer/Laptops & Other technology related stuff
