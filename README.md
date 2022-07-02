@@ -1,5 +1,5 @@
 ### Hi there I am [Shivansh Singh!](https://shivansh.ga)  👋
-### An Opensource, Tech, AI & Linux Enthusiast
+### An Avid learner & Developer
 ## & I love Programming <br /><br /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsinghx365&label=Views&color=blue&style=plastic" alt="shivanshsinghx365" /> </p>
 
 # 💫 About Me :
