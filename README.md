@@ -5,9 +5,9 @@
 # 💫 About Me :
 Currently a Computer Science Student in India ^_^
 - 🔭 I’m currently working on ... Basics of Programming
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java & DSA
 - 😄 Pronouns: ... He/him
-- 💬 Ask me about ... Linux,Git,Python,Computer/Laptops & Other technology related stuff
+- 💬 Ask me about ... Linux,Git,Python,C++, Java, Computer/Laptops Hardware & Other technology related stuff
 
 
 <p align="center">
